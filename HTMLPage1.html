@@ -1,0 +1,217 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salalah Glory Tours</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Allura&display=swap" media="print" onload="this.media='all'">
+ <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Roboto', sans-serif;
+            color: #36234d;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            position: relative;
+            filter: brightness(1.5); 
+        }
+
+        body::before {
+            content: '';
+            position: absolute;
+            top: 50px;
+            left: 0;
+            right: 0;
+            bottom: 60%; 
+            background-image: url('peter-vanosdall-uZVtAixV8c8-unsplash.jpg');
+            background-size: cover;
+            background-position: center;
+            filter: brightness(0.5);
+            z-index: -1; 
+        }
+
+        .top-bar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #36234d; 
+            padding: 15px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+            z-index: 1000; 
+        }
+
+        .top-bar a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 18px;
+            margin: 0 15px; 
+            font-family: 'Montserrat', sans-serif; 
+            transition: color 0.3s ease;
+        }
+
+        .top-bar a:hover {
+            color: #27ae60;
+        }
+
+        .company-info {
+            text-align: center;
+            margin-top: 100px; 
+        }
+
+        .company-title {
+            font-size: 36px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            font-family: 'Allura', cursive;
+        }
+
+        .login-button,
+        .signup-button {
+            background-color: #303;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 18px;
+            margin-right: 10px;
+            font-family: 'Roboto', sans-serif;
+            transition: background-color 0.3s ease, transform 0.3s ease; 
+            outline: none;
+            transform: translateY(0);
+        }
+
+        .login-button:hover,
+        .signup-button:hover {
+            background-color: #1d7141;
+            transform: translateY(-5px) scale(1.05); 
+        }
+
+        .login-button:focus,
+        .signup-button:focus {
+            outline: none;
+        }
+
+        .plan-phrase {
+            font-family: 'Allura', cursive;
+            font-size: 24px;
+            text-align: center;
+            margin: 20px;
+            color: #000000;
+        }
+
+        .social-icons {
+            position: fixed;
+            bottom: 20px;
+            left: 50%; 
+            transform: translateX(-50%); 
+            display: flex;
+            align-items: center;
+        }
+
+        .social-icon {
+            width: 40px; 
+            height: auto;
+            margin: 0 10px;
+            cursor: pointer;
+            transition: transform 0.3s ease, filter 0.3s ease; 
+            filter: hue-rotate(270deg);
+        }
+
+        .social-icon:hover {
+            transform: scale(1.2);
+            filter: grayscale(0%) drop-shadow(0px 0px 5px rgba(0,0,0,0.5)); 
+        }
+
+        .image-container {
+            text-align: center;
+            margin-top: 50px; 
+        }
+
+        .image-container img {
+            width: 200px; 
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+<div class="top-bar">
+    <div class="container">
+        <a href="#">Home</a>
+        <a href="http://localhost/login.php">About Us</a>
+        <a href="http://localhost/login.php">Guide Around</a>
+        <a href="http://localhost/login.php">Booking/Payment</a>
+    </div>
+</div>
+
+<div class="container">
+    <div class="company-info">
+        <br />
+        <br />
+        <div class="company-title">Salalah Glory Tours</div>
+        <br />
+        <br />
+        <br />
+        <button class="login-button" onclick="redirectTo('http://localhost/login.php')">Log in</button>
+        <div class="plan-phrase">Plan, Prepare, Put the order on us</div>
+    </div>
+</div>
+
+
+<div class="social-icons">
+    <a href="https://www.instagram.com/salalah_glorytours" target="_blank">
+        <img class="social-icon" src="360_F_488835649_fpxJhf74rje8tteZPaEBFC4Jr7uYgQnIJm.jpg" alt="Instagram">
+    </a>
+    <a href="https://twitter.com/salalah_glory" target="_blank">
+        <img class="social-icon" src="360_F_488835tt649_fpxJhf74rje8eZPaEBFC4Jr7uYgQnIJm.jpg" alt="Twitter">
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=96894755155&text=Hello%2C%20I%20want%20more%20info%20about%20the%20available%20tours%20..." target="_blank">
+        <img class="social-icon" src="Road_Signs_2_(82).jpg" alt="WhatsApp">
+    </a>
+</div>
+
+<script>
+    function redirectTo(page) {
+        window.location.href = page;
+    }
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
