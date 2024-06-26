@@ -1,2 +1,2 @@
-![Screenshot (101)](https://github.com/username/repository/blob/main/Screenshot%20(101).png)
+![Screenshot (101)]"C:\Users\ELITEBOOK\OneDrive\Pictures\لقطات الشاشة\Screenshot (101).png"
 
