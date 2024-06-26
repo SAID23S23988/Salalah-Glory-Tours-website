@@ -1,7 +1,4 @@
-                                                                         # Salalah-Glory-Tours-website
-
-
-
+# Salalah-Glory-Tours-website
 ## Image Gallery
 
 | ![Screenshot (101)](https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/51dea465-187c-4f61-ab14-7a791969cb1c) <br> Description for image 101 | ![Screenshot (115)](https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/d2f68599-393f-44c8-8b6c-cb592bdce371) <br> Description for image 115 | ![Screenshot (114)](https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/e331d450-41e4-4338-8b0f-69ae4744fc53) <br> Description for image 114 |
