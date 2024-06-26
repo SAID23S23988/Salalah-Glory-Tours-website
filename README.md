@@ -14,7 +14,7 @@
     <td><img src="https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/bdd62582-61c6-4aef-b61e-8e9c507e6994" alt="Screenshot (111)" width="300"/><br><b>Description for image 111</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/323d7a3f-ecf7-4128-a938-770398589916" alt="Screenshot (110)" width="300"/><br><b>Description for image 110</b></td>
+    <td><img src="https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/323d7a3f-ecf7-4128-a938-770398589916" alt="Screenshot (110)" width="300"/><br><b>About Us Page of Salalah Glory Tours website</b></td>
     <td><img src="https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/4c543cf4-e194-4c88-9fe2-88c5ab12713a" alt="Screenshot (109)" width="300"/><br><b>Description for image 109</b></td>
     <td><img src="https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/4629e8e9-ed58-45ee-a8f0-767f960831d1" alt="Screenshot (108)" width="300"/><br><b>Description for image 108</b></td>
   </tr>
