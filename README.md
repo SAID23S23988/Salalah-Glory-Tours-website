@@ -5,7 +5,7 @@
 <table style="width: 100%; text-align: center; border-spacing: 20px;">
   <tr>
     <td>
-      <img src="https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/ae6a8f11-c90f-44ee-a495-2e8c3df7d83b" alt="Screenshot (208)" width="300"/>
+      <img src="https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/0e657ecd-7a61-40b6-96eb-8fb4a53f3097" alt="Screenshot (206)" width="300"/>
       <br><b>Admin Interface of Salalah Glory Tours Website</b>
     </td>
     <td>
@@ -13,8 +13,8 @@
       <br><b>Admin Booking and Payment Page</b>
     </td>
     <td>
-      <img src="https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/0e657ecd-7a61-40b6-96eb-8fb4a53f3097" alt="Screenshot (206)" width="300"/>
-      <br><b>Admin Trip Price Linking to PayPal</b>
+       <img src="https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/ae6a8f11-c90f-44ee-a495-2e8c3df7d83b" alt="Screenshot (208)" width="300"/>
+      <br><b>Admin Interface of Salalah Glory Tours Website</b>
     </td>
   </tr>
   <tr>
