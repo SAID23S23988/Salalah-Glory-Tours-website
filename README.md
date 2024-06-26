@@ -9,11 +9,11 @@
       <br><b>Admin Interface of Salalah Glory Tours Website</b>
     </td>
     <td>
-      <img src="[https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/962937ec-6d94-4a1f-8ed3-908c19c70253)" alt="Screenshot (207)" width="300"/>
+      <img src="[https alt="Screenshot (207)" width="300"/>
       <br><b>Edite Trips page for Admin</b>
     </td>
     <td>
-       <img src="https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/ae6a8f11-c90f-44ee-a495-2e8c3df7d83b" alt="Screenshot (208)" width="300"/>
+       <img src="https alt="Screenshot (208)" width="300"/>
       <br><b>View Bookings page for Admin</b>
     </td>
   </tr>
