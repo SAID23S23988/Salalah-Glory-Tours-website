@@ -12,7 +12,7 @@
     <td><img src="https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/a965876e-981a-4b97-8191-c6452f4dd784" alt="Screenshot (113)" width="300"/><br><b>Payment Confirmation Message of Salalah Glory Tours website</b></td>
   <tr>
     <td><img src="https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/323d7a3f-ecf7-4128-a938-770398589916" alt="Screenshot (110)" width="300"/><br><b>About Us Page of Salalah Glory Tours website</b></td>
-    <td><img src="https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/8bb0af35-daf2-4056-9502-6a485b8980e9" alt="Screenshot (106)" width="300"/><br><b>Description for image 106</b></td>
+    <td><img src="https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/8bb0af35-daf2-4056-9502-6a485b8980e9" alt="Screenshot (106)" width="300"/><br><b>Trips Page of Salalah Glory Tours website</b></td>
     <td><img src="https://github.com/SAID23S23988/Salalah-Glory-Tours-website/assets/154741482/dae2ef79-a1f0-4cb6-af0c-2fd9195b2938" alt="Screenshot (105)" width="300"/><br><b>Description for image 105</b></td>
   </tr>
   <tr>
